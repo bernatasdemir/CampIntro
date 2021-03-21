@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GenericsIntro
 {
-    class MyList<T>
+    class MyList<T>//generic class
     {
         T[] items;
         //constructor ctor
